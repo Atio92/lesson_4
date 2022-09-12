@@ -1,0 +1,46 @@
+body {
+	font-family: "Larsseit";
+}
+.title {
+	font-family: "Lato";
+}
+h1{
+	font-weight: 900;
+	color: navy;
+	font-family: 'Roboto';
+}
+div{
+	color: lightslategray;
+}
+span{
+	font-family: 'Lato';
+	color: black;
+	font-weight: 900;
+}
+.links{
+	color: blue;
+	font-weight: 700;
+}
+p.light {
+	color: lightgrey;
+}
+.bold-green{
+	color: green;
+	font-weight: 700;
+}
+.lato{
+	font-family: 'Lato';
+	color: black;
+}
+.black-purple{
+	color: purple;
+	font-weight: 900;
+}
+.black-black{
+	color: black;
+	font-weight: 900;
+	font-family: 'Roboto';
+}
+.red{
+	color: red;
+}
